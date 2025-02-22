@@ -1,0 +1,10 @@
+shimmy
+gym
+pybullet
+transforms3d
+stable_baselines3
+matplotlib
+numpy
+pybullet 
+scipy 
+tensorboard
