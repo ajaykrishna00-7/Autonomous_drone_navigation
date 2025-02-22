@@ -55,8 +55,8 @@ Modify parameters such as:
 - **Control Frequency:** Tune `control_freq_hz` for smoother navigation.
 
 ### Team Members:
-- **Bargavan R (Myself)**
-- **Ajay Krishna P**
+- **Ajay Krishna P (Myself)**
+- **Bargavan R**
 
 ## License
 This project is open-source and available under the MIT License.
