@@ -4,7 +4,7 @@ import pybullet as p
 import numpy as np
 import time
 import sys
-sys.path.append('/home/bargavan/VIT_submission/gym-pybullet-drones')
+sys.path.append('path')#Enter the path for the environment file
 from gym_pybullet_drones.envs.HoverAviary import HoverAviary
 
 output_limit= 5
