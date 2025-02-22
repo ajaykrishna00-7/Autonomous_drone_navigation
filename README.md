@@ -23,6 +23,7 @@ git clone https://github.com/ajaykrishna00-7/Autonomous_drone_navigation
 git clone https://github.com/utiasDSL/gym-pybullet-drones.git 
 cd gym-pybullet-drones
 pip install -e
+cd
 cd Autonomous_drone_navigation
 pip install -r Requirements.txt
 ```
