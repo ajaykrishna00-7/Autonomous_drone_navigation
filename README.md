@@ -13,7 +13,7 @@ This project is a **drone waypoint navigation system** built using the **HoverAv
 
 ## Demo
 
-🎥 ![Watch the Demo Video](https://github.com/user-attachments/assets/7798b19e-e3bc-4893-a89e-e3f2595f580f")
+🎥 ![Watch the Demo Video](Sample_video.mp4")
 
 ## Installation
 Clone this repository and navigate to the project directory:
