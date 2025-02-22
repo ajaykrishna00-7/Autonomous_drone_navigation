@@ -59,7 +59,7 @@ Modify parameters such as:
 
 ### Team Members:
 - **Ajay Krishna P (Myself)**
-- **Bargavan R**
+- **Bargavan R (https://github.com/BargavanR/)**
 
 ## License
 This project is open-source and available under the MIT License.
