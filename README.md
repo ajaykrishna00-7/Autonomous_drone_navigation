@@ -19,7 +19,7 @@ This project is a **drone waypoint navigation system** built using the **HoverAv
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/BargavanR/Autonomous-Drone-Navigation-Challenge.git
+git clone https://github.com/ajaykrishna00-7/Autonomous_drone_navigation
 cd Drone-navigation-system
 pip install -r Requirements.txt
 ```
